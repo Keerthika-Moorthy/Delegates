@@ -1,0 +1,13 @@
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.exe
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.deps.json
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.runtimeconfig.json
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.runtimeconfig.dev.json
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.dll
+C:\Users\Keerthika\source\repos\Delegates\bin\Debug\netcoreapp3.1\DelegatesThread.pdb
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.csprojAssemblyReference.cache
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.csproj.CoreCompileInputs.cache
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.AssemblyInfoInputs.cache
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.AssemblyInfo.cs
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.dll
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.pdb
+C:\Users\Keerthika\source\repos\Delegates\obj\Debug\netcoreapp3.1\DelegatesThread.genruntimeconfig.cache
